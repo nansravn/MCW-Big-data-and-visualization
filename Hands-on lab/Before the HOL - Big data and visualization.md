@@ -65,7 +65,7 @@ Azure Databricks is an Apache Spark-based analytics platform optimized for Azure
 
     - Location: Select a region close to you. ***(If you are using an Azure Pass, select South Central US)***
 
-    - Pricing: Select Premium.
+    - Pricing: Select Standard.
 
     ![Complete the Azure Databricks Service creation form with the options as outlined above.](media/azure-databricks-create-blade.png)
 
